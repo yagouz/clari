@@ -49,7 +49,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             document.getElementById('sadGifContainer').style.display = 'block';
 
             // Modificar el botón "No"
-            document.getElementById('noBtn').innerHTML = '¡Oh no! ¿Estás segura?';
+            document.getElementById('noBtn').innerHTML = '¿Estás segura?';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
           
             
@@ -81,7 +81,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 2:
            
-            document.getElementById('noBtn').innerHTML = 'Estás segura de verdad, ¿eh?';
+            document.getElementById('noBtn').innerHTML = 'Estás segura de verdad????????????????';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'none';
@@ -129,7 +129,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 6:
            
-            document.getElementById('noBtn').innerHTML = 'Si, dices que no estaré muy triste';
+            document.getElementById('noBtn').innerHTML = 'Si, decis que no estaré muy triste';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -243,7 +243,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
      
         case 16:
-                document.getElementById('noBtn').innerHTML = 'por favooooooor';
+                document.getElementById('noBtn').innerHTML = 'por favooooooor mi amor te adoro';
                 document.getElementById('noBtn').style.backgroundColor = '#F1330A';
               
                 document.getElementById('sadGifContainer').style.display = 'none';
